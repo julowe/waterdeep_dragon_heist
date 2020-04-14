@@ -3,9 +3,14 @@ This repo forked from [Drunken Economist's](https://github.com/drunken-economist
 Don't know yet if there will be much else here beyond the Enchiridion, we'll see.
 
 ## Contents
-This repo contains the Mozilla Public License 2.0 file and this readme
-The [source text](enchiridion-homebrewery.md) to create a PDF at [Homebrewey](https://homebrewery.naturalcrit.com).
-You can also just [download the PDF from Homebrewery here](https://homebrewery.naturalcrit.com/share/LF7lOAj3z).
-If you have impaired vision, or just want re-sizable text, there is also the [enchiridion-github.md file](enchiridion-github.md) which can be viewed on Github and has a mix of markdown and HTML.
-And then I also just converted that into an [HTML version](enchiridion.html)
-[enchiridion.md](enchiridion.md) is the fully markdown compliant version
+* This repo contains the Mozilla Public License 2.0 file and this readme
+
+* The [source text](enchiridion-homebrewery.md) to create a PDF at [Homebrewey](https://homebrewery.naturalcrit.com).
+
+* You can also just [download the PDF from Homebrewery here](https://homebrewery.naturalcrit.com/share/LF7lOAj3z).
+
+* If you have impaired vision, or just want re-sizable text, there is also the [enchiridion-github.md file](enchiridion-github.md) which can be viewed on Github and has a mix of markdown and HTML.
+
+* And then I also just converted that into an [HTML version](enchiridion.html)
+
+* [enchiridion.md](enchiridion.md) is the fully markdown compliant version
