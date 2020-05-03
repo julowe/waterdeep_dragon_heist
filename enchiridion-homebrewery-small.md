@@ -485,7 +485,7 @@ Though not quite as large as the castle, the palace is far more comfortable and 
 
 
 <img
-  src='https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/13-castle-ward-small.png'
+  src='https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/13-castle-ward.png'
   style='width:325px;margin:10px 0px 0px 0px' />
 <center>_The stately, clean, and well-defended Castle Ward_</center>
 
@@ -728,7 +728,7 @@ The head of the Swordmaiden sits in a stand of tall trees in the center of the b
 _Brindul Alley._ This is the lair of the Hand that Sings, a magical phantasm of a hand with a mouth in its palm. The hand is said to snatch valuables it fancies — especially magical ones — when it encounters them, and to occasionally attack folk in the darkness, strangling them or tripping them into fatal falls. Most often, though, it takes no notice of those who don’t bother or follow it, eerily singing fragments of old Sword Coast ballads and love songs as it drifts through the night.<br>
 _Manycats Alley._ This passage crosses two city blocks and winds through the interior of a third, running between and (for the most part) parallel to Julthoon Street and Traders’ Way in the North Ward. It is, unsurprisingly, home to many cats that feed on scraps from the surrounding butchers’ shops, but it is also known for the many carved stone heads of people and animals that adorn the alley’s buildings. Individuals who have walked the alley alone report that some of the heads whispered cryptic messages to them.<br>
 _Gondwatch Lane._ Found at the southern entrance to the House of Inspired Hands in the Sea Ward, this alley serves as the testing ground for inventions considered too dangerous to operate inside the temple. The locals are generally unconcerned about the risks though, and stand watching while food vendors circulate.<br>
-_Pharra’s Alley._ This alley in the Sea Ward is named after the first leader of the House of Wonder, but is more infamous for its Circle of Skulls. This infrequent and unpredictable haunting takes the form of seven floating skulls, which hover in a circle and argue with one another in whispered tones about events in the city. If they are interrupted, their reaction reportedly varies from being helpful to engaging in murderous spell-slinging.<br>
+_Pharra’s Alley._ This alley in the Sea Ward is named after the first leader of the House of Wonder, but is more infamous for its Circle of Skulls. This infrequent and unpredictable haunting takes the form of seven floating skulls, which hover in a circle and argue with one another in whispers about events in the city. If they are interrupted, their reaction reportedly varies from being helpful to engaging in murderous spell-slinging.<br>
 _Three Daggers Alley._ This alley in the Dock Ward suffers from a magical curse that causes three daggers to appear out of thin air and attack passersby. The daggers swoop and fly about, making multiple attempts at murder before vanishing again. This magical effect, the result of a spell cast by a long-dead wizard, has resisted all attempts to dispel it. Some locals boast of how many times they’ve crossed the alley and lived to tell of it, but the appearance of the daggers is entirely a matter of chance, and unpredictable. So take my advice and don’t test Tymora’s favor.
 
 <br>
@@ -833,7 +833,7 @@ On this day, the City Guard, the City Navy, and the City Watch — all in glitte
 The imaginative inventions of the Gondar are revealed on this day and paraded through the city. These devices range from something as humble as new cabinet hinges to massive mechanical constructs that walk or roll about. Failure is the paramour of invention, though, meaning it is a rare year when there isn’t some notable disruption of the celebration. The flying chair of Marchell was one such recent oddity — a device that worked marvelously on the way up but was incapable of descending. Marchell was rescued by the Griffon Cavalry, but his flying chair drifted away and was never seen again.
 
 <img
-  src='https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/2-day-of-wonders-small.png'
+  src='https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/22-day-of-wonders-small.png'
   style='width:325px;margin:10px 0px 0px 0px' />
 <center>_Day of Wonders_</center>
 
