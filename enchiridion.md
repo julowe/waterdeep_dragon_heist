@@ -1,4 +1,4 @@
-![Cover Page](https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/335/850/1218/9001.png)
+![Cover Page](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/00-volos-cover.png)
 
 # Volo’s Waterdeep Enchiridion
 
@@ -78,7 +78,7 @@ After the Spellplague came the Sundering. Elf scholars insist on calling it the 
 
 Apparently, all of this was foreseen by Waterdeep’s legendary wizard Khelben Arunsun, and it was only through his wisdom and the efforts of Elminster, Laeral Silverhand — now the Open Lord of Waterdeep — and a handful of others that the world was saved. According to Elminster, Ao remade the _Tablets of Fate_ as a result, restoring the divine order and separating Abeir from Toril. But take that as you may. According to that roguish longbeard, he saves the world without anyone noticing every other month or so.
 
-![The Sea Maidens Faire parade](https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/336/850/545/9002.png)
+![The Sea Maidens Faire parade](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/03-sea-maidens-faire-parade.png)
 
 _The Sea Maidens Faire parade_
 
@@ -95,7 +95,7 @@ Unlike in less civilized settlements, punishment for crimes in Waterdeep isn’t
 
 Waterdeep has a complex library of law and custom set by precedent, the main body of which can be read in the Code Legal. This document is available in multiple languages at the Palace of Waterdeep, and (in the Common tongue) provided on request by the magisters at the gates and in the harbor. Be aware that the Code Legal provides only an outline of typical sentences for various offenses, and magisters have broad discretion when meting out justice as they see fit. Any Masked Lord can overturn a magister’s ruling, but there’s rarely a Masked Lord around when you need one.
 
-![](https://media-waterdeep.cursecdn.com/attachments/4/337/9003.png)
+![The Code Legal](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/04-the-code-legal.png)
 
 
 ## Arms, Armor, and Combat
@@ -166,7 +166,7 @@ In times of trouble, direct taxes can also be imposed:
 * A **wall tax** or harbor tax (usually 1 dragon per household) raised to directly pay for needed repairs or expansions  
 * A **lance** tax raised to provide a payroll for mercenaries hired by the city when required (usually 1 shard per household each tenday until the Lords repeal the tax)
 
-![Coinage](https://media-waterdeep.cursecdn.com/attachments/4/338/9004.png)
+![Coinage](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/06-coinage.png)
 
 
 ## Getting About
@@ -200,7 +200,7 @@ One of Waterdeep’s titanic walking statues, no longer mobile, offers another w
 >**Natives of the City of Splendors are notoriously slow to take offense.** A Waterdavian plainly states their feelings as a warning, so that one is apt to hear “I don’t find that amusing, friend,” said pleasantly before real anger is shown. Some visitors misinterpret such behavior as cowardice or ignorance (“He was too stupid to realize I insulted him!”). For those who act on such misjudgments, however, surprise and regret are the usual results.
 >**Most Waterdavians are also slow to take fright unless facing magic or monsters.** A swaggering warrior threatening them is quite likely to be stared at calmly, or even sneered at. “The only mortals that Waterdavians fear are a few unstable wizards and the Lords,” Durnan often says to those who are surprised by the nonchalance of the Yawning Portal’s regulars concerning the open entrance to Undermountain in their midst. “And only when they’ve incurred the wrath of said persons themselves.”
 
-![Transport](https://media-waterdeep.cursecdn.com/attachments/4/339/9005.png)
+![Transportation](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/08-transportation.png)
 
 
 ### Drays
@@ -268,7 +268,7 @@ If you do business in the city as anything other than a purchaser of goods and s
 
 All that said, working at a guild-related profession without being a member of that guild isn’t illegal. Guild members have no lawful recourse to interfere in the business of someone who chooses to not join the organization. But if you practice a trade or operate a business without becoming a member of the appropriate guild, word spreads, and you’ll find that your coin isn’t good for purchasing the goods or services of anyone who is a guild member. Since that group includes virtually everyone who sells the necessities of life or offers shelter for a fee, the benefits of joining a guild swiftly become apparent to those who procrastinate in this regard.
 
-![Waterdeep at Night](https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/340/850/559/9006.png)
+![Waterdeep at Night](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/10-waterdeep-at-night.png)
 _Waterdeep at Night_
 
 
@@ -313,7 +313,7 @@ Two parks in the Sea Ward might also be worth your time. The Shrines to Nature, 
 
 I hesitate to mention a last location in the Sea Ward, and I will not reveal where to find it, for reasons that will soon become apparent. There is a house in the Sea Ward without windows or doors. You can’t see it from the street, and those who live near it will not speak of it to others. You’ll know you are near it when you see blue tiles on the streets and walls leading into an alley that passes under the surrounding buildings. At night, these tiles glimmer dimly with the blue light of foxfire. More than one route leads into the Blue Alley, as this place is known, but there are precious few ways out. Most who enter don’t come back. If you see blue tiles, turn around and walk away before it is too late.
 
-![Swift Justice](https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/341/850/558/9007.png)
+![Swift Justice](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/12-swift-justice.png)
 _Swift Justice_
 
 
@@ -356,7 +356,7 @@ Castle Waterdeep stands above the city on a great bluff that extends out from th
 
 Though not quite as large as the castle, the palace is far more comfortable and lavishly decorated, with many halls used by government officials, guildmasters, and nobles for meetings and court proceedings. If you have reason to be invited (not compelled, I should hope!) to meet with the Masked Lords or the Open Lord of Waterdeep, it will likely take place in the audience chamber of the palace. There, you can witness the ancient and humble throne that Ahghairon first sat upon so long ago.
 
-![The stately, clean, and well-defended Castle Ward](https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/342/850/583/9008.png)
+![The stately, clean, and well-defended Castle Ward](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/13-castle-ward.png)
 
 _The stately, clean, and well-defended Castle Ward_
 
@@ -423,7 +423,7 @@ Those who can afford it memorialize the departed with sculptures, making the Cit
 
 One of the cemetery’s most impressive attractions is the Warriors’ Monument. This intricate, sixty-foot-high sculpture depicts a circle of women and men striking down trolls, orcs, hobgoblins, bugbears, and barbarians, all of which are falling backward and outward around the warriors. Above all of them, a flying griffon rider spears a skeletal knight whose breastplate bears the symbol of Myrkul, god of the dead. But this statue is also a fountain, and the wounds on these combatants gush water! Don’t try to imagine it — just go see it. And see it as Waterdavians do: pack a midday feast, have a picnic, and then take a stroll through the beauty of the place.
 
-![City of the Dead](https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/343/850/546/9009.png)
+![City of the Dead](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/15-city-of-the-dead.png)
 
 _City of the Dead_
 
@@ -488,7 +488,7 @@ In both martial displays and in real battles against flying threats such as mant
 
 Riders of the Griffon Cavalry are trained to stay above the rooftops, not because they fear crashing into towers and weather vanes, but because the smell of so much horseflesh in the streets below can sometimes drive their griffons into a frenzy.
 
-![Griffon Cavalry on Patrol](https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/344/850/565/9010.png)
+![Griffon Cavalry on Patrol](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/17-griffon-cavalry.png)
 
 _Griffon Cavalry on Patrol_
 
@@ -536,7 +536,7 @@ This statue appears virtually identical to the Honorable Knight, except for its 
 
 The head of the Swordmaiden sits in a stand of tall trees in the center of the block of the North Ward bounded by Hassantyr’s Street, Tarsar’s Street, Whaelgond Way, and Ussilbran Street. The center of its jaw and mouth have been replaced by a door, which leads into the shop known as Thort’s Findings. Undevvur Thort is a wizened ex-adventurer who leans on a cane (which some locals insist is more than just a cane). He lives in the small shop, whose many levels, staircases, and landings fill the hollowed-out interior of the head, and which is crammed with oddments sold to Thort by adventurers and other travelers. These items bear little placards in Thort’s beautiful, flowing handwriting that identify them (or at least provide speculation as to their origin and purpose). Nobles and wealthy merchants who desire props for themed revels often rent some of Thort’s wares as decoration — and many sages, alchemists, and wizards visit him regularly in search of potentially useful items.
 
-![The God Catcher looking on in the background](https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/345/850/578/9011.png)
+![The God Catcher looking on in the background](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/19-the-god-catcher.png)
 
 _The God Catcher looking on in the background_
 
@@ -637,7 +637,7 @@ On this day, the City Guard, the City Navy, and the City Watch — all in glitte
 #### Marpenoth 3: Day of Wonders
 The imaginative inventions of the Gondar are revealed on this day and paraded through the city. These devices range from something as humble as new cabinet hinges to massive mechanical constructs that walk or roll about. Failure is the paramour of invention, though, meaning it is a rare year when there isn’t some notable disruption of the celebration. The flying chair of Marchell was one such recent oddity — a device that worked marvelously on the way up but was incapable of descending. Marchell was rescued by the Griffon Cavalry, but his flying chair drifted away and was never seen again.
 
-![Day of Wonders](https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/346/850/555/9012.png)
+![Day of Wonders](https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/22-day-of-wonders.png)
 
 _Day of Wonders_
 
