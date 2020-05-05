@@ -11,6 +11,7 @@
   src='https://raw.githubusercontent.com/julowe/waterdeep_dragon_heist/master/assets-enchiridion/00-volos-cover.png'
   style='width:100%;margin:0px 0px 0px 0px'/>
 </div>
+<!-- version with smaller images to create a sub-25mb file -->
 
 \page
 
